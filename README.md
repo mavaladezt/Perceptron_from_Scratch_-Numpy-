@@ -15,3 +15,4 @@ Features:<br>
  3. curtosis of Wavelet Transformed image (continuous)
  4. entropy of image (continuous)
  5. class (integer)
+
